@@ -1,0 +1,12 @@
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\bin\Debug\GSAMSistemaVentas.Utils.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\bin\Debug\GSAMSistemaVentas.Utils.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\obj\Debug\GSAMSistemaVentas.Utils.csproj.AssemblyReference.cache
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\obj\Debug\GSAMSistemaVentas.Utils.csproj.CoreCompileInputs.cache
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\obj\Debug\GSAMSistemaVentas.Utils.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\obj\Debug\GSAMSistemaVentas.Utils.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\bin\Debug\GSAMSistemaVentas.Utils.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\bin\Debug\GSAMSistemaVentas.Utils.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\obj\Debug\GSAMSistemaVentas.Utils.csproj.AssemblyReference.cache
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\obj\Debug\GSAMSistemaVentas.Utils.csproj.CoreCompileInputs.cache
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\obj\Debug\GSAMSistemaVentas.Utils.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Utils\obj\Debug\GSAMSistemaVentas.Utils.pdb

@@ -1,0 +1,27 @@
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Data.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Data.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Entity.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Entity.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.AssemblyReference.cache
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.CoreCompileInputs.cache
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.CopyComplete
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Data.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Data.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Entity.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Entity.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.AssemblyReference.cache
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.CoreCompileInputs.cache
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.CopyComplete
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Data.dll
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Data.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Entity.dll
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\bin\Debug\GSAMSistemaVentas.Entity.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.AssemblyReference.cache
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.CoreCompileInputs.cache
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.csproj.CopyComplete
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.dll
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.Data\obj\Debug\GSAMSistemaVentas.Data.pdb

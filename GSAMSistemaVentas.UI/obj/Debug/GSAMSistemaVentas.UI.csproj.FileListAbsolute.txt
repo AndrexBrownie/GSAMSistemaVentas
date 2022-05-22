@@ -1,0 +1,105 @@
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.exe.config
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.exe
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Entity.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Logic.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Data.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Entity.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Logic.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Data.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.AssemblyReference.cache
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProductoUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.Properties.Resources.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.GenerateResource.cache
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.CoreCompileInputs.cache
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.CopyComplete
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.exe
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProductoDetalleUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Utils.dll
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Utils.pdb
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.CategoriaUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.CategoriaDetalleUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.MarcaUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.MarcaDetalleUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.PrincipalUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.UMedidaUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.UMedidaDetalleUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProveedorUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProveedorDetalleUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ClienteUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ClienteDetalleUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.EmpleadoUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.EmpleadoDetalleUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.AcercaDeUI.resources
+E:\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.LoginUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.exe.config
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.exe
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Entity.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Logic.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Utils.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Data.dll
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Entity.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Logic.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Utils.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Data.pdb
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.AssemblyReference.cache
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.AcercaDeUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.CategoriaDetalleUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.CategoriaUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ClienteDetalleUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ClienteUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.EmpleadoDetalleUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.EmpleadoUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.LoginUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.MarcaDetalleUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.MarcaUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.PrincipalUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProductoDetalleUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProductoUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.Properties.Resources.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProveedorDetalleUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProveedorUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.UMedidaDetalleUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.UMedidaUI.resources
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.GenerateResource.cache
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.CoreCompileInputs.cache
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.CopyComplete
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.exe
+E:\IST Von Braun\4to Semestre\CICLO IV\PROGRAMACION DISTRIBUIDA II\EXAMEN FINAL\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.exe.config
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.exe
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.UI.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Entity.dll
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Logic.dll
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Utils.dll
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Data.dll
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Entity.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Logic.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Utils.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\bin\Debug\GSAMSistemaVentas.Data.pdb
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.AssemblyReference.cache
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.AcercaDeUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.CategoriaDetalleUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.CategoriaUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ClienteDetalleUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ClienteUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.EmpleadoDetalleUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.EmpleadoUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.LoginUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.MarcaDetalleUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.MarcaUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.PrincipalUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProductoDetalleUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProductoUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.Properties.Resources.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProveedorDetalleUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.ProveedorUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.UMedidaDetalleUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.UMedidaUI.resources
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.GenerateResource.cache
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.CoreCompileInputs.cache
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.csproj.CopyComplete
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.exe
+E:\IST Von Braun\CICLO VI\Taller de Tesis\Sistema\Version 2\GSAMSistemaVentas\GSAMSistemaVentas.UI\obj\Debug\GSAMSistemaVentas.UI.pdb
